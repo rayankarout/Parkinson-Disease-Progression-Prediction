@@ -3,7 +3,7 @@ The goal of this competition is to predict MDS-UPDR scores, which measure progre
 
 Your work could help provide important breakthrough information about which molecules change as Parkinson’s disease progresses.
 
-Context
+- Context
 
 Parkinson’s disease (PD) is a disabling brain disorder that affects movements, cognition, sleep, and other normal functions. Unfortunately, there is no current cure—and the disease worsens over time. It's estimated that by 2037, 1.6 million people in the U.S. will have Parkinson’s disease, at an economic cost approaching $80 billion. Research indicates that protein or peptide abnormalities play a key role in the onset and worsening of this disease. Gaining a better understanding of this—with the help of data science—could provide important clues for the development of new pharmacotherapies to slow the progression or cure Parkinson’s disease.
 
@@ -13,7 +13,7 @@ Competition host, the Accelerating Medicines Partnership® Parkinson’s Disease
 
 Your work could help in the search for a cure for Parkinson’s disease, which would alleviate the substantial suffering and medical care costs of patients with this disease.
 
-Evaluation
+- Evaluation
 
 Submissions are evaluated on SMAPE between forecasts and actual values. We define SMAPE = 0 when the actual and predicted values are both 0.
 
